@@ -1,0 +1,9 @@
+pyserial
+PyQt6
+pygame
+numpy
+openpyxl
+pandas
+pydirectinput
+matplotlib
+pytz
