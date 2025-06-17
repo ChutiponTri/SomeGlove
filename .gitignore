@@ -1,0 +1,10 @@
+/__pycache__
+/build
+/dist
+/venv
+*.spec
+*.docx
+test.py 
+temp.py
+te.py
+practice_scipy.py 
